@@ -33,6 +33,9 @@ All the functions are controlled by admins.We can have multiple admins in this l
 
 ![Screenshot (118)](https://user-images.githubusercontent.com/91359334/134763907-63341a2c-d400-45f6-b570-8f410c5a27dc.png)
 
+![Screenshot (119)](https://user-images.githubusercontent.com/91359334/134763983-ba03aed6-55c8-4eae-b63b-818ce47048f3.png)
+
+
 
 
 

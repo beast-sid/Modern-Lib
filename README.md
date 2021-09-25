@@ -17,5 +17,6 @@ It consists of various features which helps you to manage your library easily wi
 All the functions are controlled by admins.We can have multiple admins in this library. New admins have to first signup to our library and then they can manage library freely.
   
 ## Screenshots of my portal
-![Screenshot (113)](https://user-images.githubusercontent.com/91359334/134762384-ee37790b-8f36-4173-b0f2-716a55110a64.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/91359334/134762434-aad2c0a7-4b6d-4250-8401-7e00eb324cfa.png)
+
 
